@@ -1,5 +1,5 @@
 *.swp
-deploy.sh
+#deploy.sh
 mongoose*
 
 scripts/build/*.js
